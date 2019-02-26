@@ -1,4 +1,5 @@
 *
+!/tools
 !*.c
 # Prerequisites
 *.d
